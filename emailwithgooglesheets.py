@@ -14,7 +14,7 @@ creds = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 # If modifying these scopes, delete the file token.json.
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1suNGwz8X_qWwxAL5fWwpTOgoJ3YR4sz86F4BNj54NMo'
+SAMPLE_SPREADSHEET_ID = '#id'
 
     
     
@@ -30,7 +30,7 @@ print(values)
 
 FROMADDR = "emailnew642@gmail.com"
 LOGIN    = FROMADDR
-PASSWORD = "Redminote5@123"
+PASSWORD = "#Pass"
 TOADDRS  = ["coffuino@gmail.com","emailnew642@gmail.com"]
 SUBJECT  = "COWIN SLOTS ALERT"
 
