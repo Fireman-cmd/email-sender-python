@@ -1,8 +1,8 @@
 import smtplib
 
-FROMADDR = "emailnew642@gmail.com"
+FROMADDR = "#email"
 LOGIN    = FROMADDR
-PASSWORD = "Redminote5@"
+PASSWORD = "#pass"
 TOADDRS  = ["coffuino@gmail.com","emailnew642@gmail.com"]
 SUBJECT  = "COWIN SLOTS ALERT"
 
