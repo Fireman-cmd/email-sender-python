@@ -33,8 +33,8 @@ import smtplib
 Change these to your credentials and name
 '''
 your_name = "COWIN_EXTENSION"
-your_email = "emailnew642@gmail.com"
-your_password = "Redminote5@"
+your_email = "#email"
+your_password = "#pass"
 
 # If you are using something other than gmail
 # then change the 'smtp.gmail.com' and 465 in the line below
