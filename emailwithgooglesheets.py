@@ -31,7 +31,7 @@ print(values)
 FROMADDR = "emailnew642@gmail.com"
 LOGIN    = FROMADDR
 PASSWORD = "#Pass"
-TOADDRS  = ["coffuino@gmail.com","emailnew642@gmail.com"]
+TOADDRS  = ["#email"]
 SUBJECT  = "COWIN SLOTS ALERT"
 
 msg = ("From: %s\r\nTo: %s\r\nSubject: %s\r\n\r\n"
